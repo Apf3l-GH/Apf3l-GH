@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Apf3l_
-- 🌱 I’m currently learning Python
-- 📫 How to reach me:
-    - 🐤 Twitter: @apf3l_
-    - 👾 Discord: Apfel #0985
+
